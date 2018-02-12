@@ -1,6 +1,6 @@
 # Material Todo
 
-Simple Todolist on [Angular 5] (https://angular.io) &amp; [Angular Material UI framework] (https://material.angular.io)
+Simple Todolist on [Angular 5](https://angular.io) &amp; [Angular Material UI framework](https://material.angular.io)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
